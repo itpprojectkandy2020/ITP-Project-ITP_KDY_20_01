@@ -18,7 +18,7 @@ public class RajaAndSonsBizMgtSystem {
         // TODO code application logic here
         //You bois
         System.out.println("hello");
-         System.out.println("22222222222222222");
+         System.out.println("second one");
     }
     
 }
